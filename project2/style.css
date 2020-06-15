@@ -1,0 +1,15 @@
+body{
+   background: url("https://images.pexels.com/photos/18105/pexels-photo.jpg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center center ;
+   background-size: cover;
+   background-attachment: fixed;
+   color:white;
+   font-family: 'Mogra', cursive;
+}
+.rowH{
+    height:300px;
+   
+}
+.bg{
+ background-color:#e84393
+
+}
