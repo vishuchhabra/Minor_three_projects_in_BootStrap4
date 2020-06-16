@@ -1,0 +1,17 @@
+body{
+  background: url("https://images.pexels.com/photos/466685/pexels-photo-466685.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940") no-repeat center center fixed;
+  background-size: cover;
+}
+#img_logo{
+    max-width: 100px;
+    max-height: 100px;
+    margin: 0 auto;
+}
+#login-modal .modal-dialog{
+    width:350px
+}
+
+#login-modal input[type=text],input[type=password]{
+    margin-top:10px
+}
+    
